@@ -1,9 +1,11 @@
-Why  am I explaining?
+Why am I explaining?
 
 Two purposes
+
 a) Most of the custom visuals code is in Github, to download and understand this knowledge is required.
 b) To know  about versioning processing process
 
+The below is generic:
 
 How do you get / deliver the documents to work on a project?
 
